@@ -1,7 +1,6 @@
 torch
 torchvision 
 torchaudio 
-marker
 marker-pdf
 langchain-text-splitters 
 langchain_community
