@@ -5,3 +5,4 @@ marker-pdf
 langchain-text-splitters 
 langchain_community
 langchain-pinecone
+Flask
