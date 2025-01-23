@@ -1,8 +1,13 @@
 torch
 torchvision 
 torchaudio 
+marker
 marker-pdf
 langchain-text-splitters 
 langchain_community
 langchain-pinecone
 Flask
+flask-cors
+google-generativeai
+pinecone-client
+requests
